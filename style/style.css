@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(238, 231, 231);
+    margin-top: 50px;
+
+}
+
+
+.facebook{
+    padding-left: 150px;
+    padding-top: 50px;
+
+ }
+ .facebook h1{
+    color: rgba(0, 60, 255);
+    font-size: 65px;
+    margin-bottom: 1px;
+ }
+ .facebook p{
+    font-size: 35px;
+ }
+.bassy{
+    float: right;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 5px 10px gray;
+    border-radius: 5px;
+    margin: 150px 250px 90px 60px;
+
+}
+form{
+    padding: 15px 20px 20px 40px;
+
+}
+#email{
+    width: 300px;
+    border: 1px solid rgb(0, 60, 225);
+    border-radius: 3px;
+    height: 30px;
+}
+#password{
+    width: 300px;
+    height: 30px;
+    border: 1px solid rgb(184, 176, 176);
+    border-radius: 3px;
+
+}
+#login{
+    color: white;
+    background-color: rgb(0, 60, 225);
+    width: 100%;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+}
+.demo1{
+    text-align: center;
+    background-color: rgb(94, 226, 54);
+    padding: 9px;
+    margin: 5px 80px 5px 80px;
+    border-radius: 8px;
+    font-size: 24px;
+}
+.demo1 a{
+    text-decoration: none;
+    color: white;
+}
+.demo1 :hover{
+    opacity: 0.8;
+}
+#create{
+    color: white;
+    background-color: rgba(241, 6, 65, 0.89);
+    border: none;
+    border-radius: 3px;
+    width: 50%;
+    height: 30px;
+    padding-right: 55px;
+    
+
+}
+
